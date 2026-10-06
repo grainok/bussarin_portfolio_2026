@@ -1,5 +1,7 @@
 # Bussarin Portfolio 2026
 
-Static portfolio website with Website NextGen and NextGen Email Design case studies.
+Static portfolio with Website NextGen and NextGen Email Design.
 
-Vercel settings: Framework Other, repository root, no build command. Connect this repository to the existing bussarin-portfolio project and use main as the production branch.
+Vercel: connect this repository to bussarin-portfolio, Framework Other, root directory ./, no build command, production branch main.
+
+Resume opens the document on the existing portfolio website; no resume PDF is included in this public repository.
